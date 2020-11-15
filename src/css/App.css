@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  top:0px;
+  bottom:0px;
+  width: 100%;
+  position: absolute;
+  background-color: #F9FDFF;
+}
+
+.middleSection {
+  background-color: white;
+  /* background-color: #F9FDFF; */
+  width: 60%;
+  margin: 0 auto;
+  height: 100%;
+  box-shadow: 2px 2px 15px 1px rgba(1, 0, 0, 0.5);
+}
+
+hr {
+  margin-bottom: 10px;
+  width: 90%;
+  border-color: rgba(0, 0, 0, 0.1);
+}
+
+.card{
+  margin:30px;
+  display: flex;
+  justify-content: space-between;
+}
